@@ -1,0 +1,28 @@
+name: Family Tree
+favicon: null
+layout_spectrum: 0.3605756373144686
+typography_spectrum: 0.2632582827936858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.39985702675767243
+  lightness: 0.48633542424067855
+  saturation: 0.60610382235609
+  rhythmicContrast: 0.015118683455511928
+purpose: []
